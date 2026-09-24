@@ -16,3 +16,6 @@ Client: ColorMan · Target: https://joilmang.com/ (+ /top) · Market: RU (+KZ, B
 
 ## Note for client
 Free platforms (Dzen, VC, Pikabu, Telegraph, Q&A) are extra links. They don't count toward the 50 «донорских» links (≥1000 Yandex traffic, niche site). Donor links go to the client for approval first.
+
+## Order #65100723
+Delivered 52 URLs (51 counted, 29 domains): EN general crowd. Brief not met → honest report `report_order_65100723_ru.md` + 6 RU bonus links (drafts/) + niche list offer. Chat message: `kwork_message_ru.md`.
