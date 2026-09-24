@@ -1,0 +1,14 @@
+id,type,donor_domain,page_url,action,target,anchor_planned,contact,traffic_check,index_check,status
+1,collection,best-technologies.ru,https://best-technologies.ru/best-sites/luchshie-sajty-dlja-chtenija-mangi/,Ask owner to add Joilmang to the list,https://joilmang.com/,Joilmang,site contact form,pr-cy.ru / be1.ru,site:best-technologies.ru,to_verify
+2,collection,petr-panda.ru,https://petr-panda.ru/15-servisov-dlya-chteniya-mangi/,Ask owner to add as service #16,https://joilmang.com/,joilmang.com,site contact form,pr-cy.ru / be1.ru,site:petr-panda.ru,to_verify
+3,club_page,shikimori.one,https://shikimori.one/clubs/2414-sayty-animeshnika/pages/1842-pochitat-mangu,Suggest addition to club page (club comment / admin DM),https://joilmang.com/,Joilmang,club admin,high (known),yes,to_verify
+4,qa,yandex.ru/q,https://yandex.ru/q/question/gde_vy_chitaete_mangu_posovetuite_saity_9b5ccfd4/,Post expert answer (drafts/answers.md),https://joilmang.com/,Joilmang,self-post,Yandex property,yes,ready_to_post
+5,qa,otvet.mail.ru,https://otvet.mail.ru/question/241697751,Post answer (drafts/answers.md),https://joilmang.com/,здесь,self-post,high,yes,ready_to_post
+6,guest_author,animemaga.ru,https://gamemag.ru/news/93485/animemaga-ischet-novyh-avtorov,Register as author; publish review/news mentioning Joilmang,https://joilmang.com/top,онлайн-читалка,self-register,verify,site:animemaga.ru,to_verify
+7,corporate_blog,filmora.wondershare.com.ru,https://filmora.wondershare.com.ru/animated-video/top-best-manga-sites-to-read-online.html,Email editor to add Joilmang (low odds),https://joilmang.com/,Joilmang,editorial email,high,yes,low_priority
+8,corporate_blog,tunesfun.com,https://www.tunesfun.com/ru/audible-converter/websites-for-manga-reading.html,Email editor (low odds),https://joilmang.com/,joilmang.com,editorial email,verify,yes,low_priority
+9,corporate_blog,googiehost.com,https://googiehost.com/ru/,Email editor for RU manga sites list (low odds),https://joilmang.com/,Joilmang,editorial email,verify,yes,low_priority
+10,free_platform,dzen.ru,(new channel article),Publish drafts/dzen.md,https://joilmang.com/,Joilmang,self-post,Yandex property,n/a,ready_to_post
+11,free_platform,vc.ru,(new blog article),Publish drafts/vc.md,https://joilmang.com/top,joilmang.com,self-post,high,n/a,ready_to_post
+12,free_platform,pikabu.ru,(new post in manga/anime community),Publish drafts/pikabu.md,https://joilmang.com/,Joilmang,self-post,high,n/a,ready_to_post
+13,free_platform,telegra.ph,(new page),Publish drafts/telegraph.md,https://joilmang.com/,joilmang.com,self-post,n/a,n/a,ready_to_post
