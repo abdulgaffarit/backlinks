@@ -1,0 +1,14 @@
+priority,domain,page_or_section,format,target,anchor,cost,traffic_yandex_1000plus,in_index,niche_ok,not_pbn_not_exchange,notes
+A,best-technologies.ru,https://best-technologies.ru/best-sites/luchshie-sajty-dlja-chtenija-mangi/,Add to existing collection,/,Joilmang,free (ask),verify,verify,partial (tech site with manga article),verify,Page already targets «лучшие сайты для чтения манги»
+A,petr-panda.ru,https://petr-panda.ru/15-servisov-dlya-chteniya-mangi/,Add as #16 in collection,/,joilmang.com,free (ask),verify,verify,partial,verify,Collection of 15 RU manga services
+A,shikimori.one,https://shikimori.one/clubs/2414-sayty-animeshnika/pages/1842-pochitat-mangu,Club page listing,/,Joilmang,free,yes (large),yes,yes,yes,UGC club page; link may be nofollow
+A,animemaga.ru,author registration,Author article/review,/top,онлайн-читалка,free,verify,verify,yes,verify,Site openly recruits authors
+B,kg-portal.ru,https://kg-portal.ru/news/anime/,Editorial review / news,/,Joilmang,likely paid,yes (large),yes,yes,verify,Big anime/games media; pitch as news
+B,goha.ru,https://www.goha.ru/anime/news,Editorial / user blog,/,joilmang.com,likely paid,yes (large),yes,yes (games+anime),verify,Check user blog option
+B,janime.ru,https://janime.ru/news/,Article / review,/,Joilmang,ask,verify,verify,yes,verify,Anime news & articles
+B,anilog.orgs.biz,https://anilog.orgs.biz/,Guest article,/top,joilmang.com,ask,verify,verify,yes,verify,Anime blog (subdomain; check quality)
+B,mangalectory.ru,https://mangalectory.ru/articles/,Guest article,/,здесь,ask,verify,verify,yes,verify,Manga analytics site
+C,gamemag.ru,https://gamemag.ru/,Editorial,/,Joilmang,likely paid,yes (large),yes,games,verify,Owns Animemaga
+C,filmora.wondershare.com.ru,https://filmora.wondershare.com.ru/animated-video/top-best-manga-sites-to-read-online.html,Add to collection,/,Joilmang,low odds,yes,yes,no (software brand),yes,Corporate blog
+C,tunesfun.com,https://www.tunesfun.com/ru/audible-converter/websites-for-manga-reading.html,Add to collection,/,joilmang.com,low odds,verify,yes,no,yes,Corporate blog
+C,googiehost.com,RU manga sites article,Add to collection,/,Joilmang,low odds,verify,yes,no,yes,Hosting blog
